@@ -6,7 +6,7 @@
 
 - Active Directory Attack & Detection Lab Splunk SPL detections for Kerberoasting, AS-REP Roasting, and Pass-the-Hash mapped to MITRE ATT&CK
 - Sigma Detection Engineering Repo Sigma rules validated with Atomic Red Team, with GitHub Actions linting
-- T-Pot Honeypot — Real-world attack traffic capture and threat intel write-up
+- T-Pot Honeypot Real-world attack traffic capture and threat intel write-up
 
 ## 🛠️ Tools I work with
 
